@@ -14,7 +14,6 @@ add_library(${project_name}-lib
     src/service/bot/Bot.cpp
     src/service/bot/handler/EventHandler.cpp
     src/service/Users.cpp
-    src/service/events/EventTiktok.cpp
 )
 
 ## link libs

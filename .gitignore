@@ -3,7 +3,11 @@
 /,vs
 /.vscode
 /tmp
+/CMakeFiles
 
 ## Files
 /resources/users.db
-
+/CMakeCache.txt
+/Makefile
+/*.cmake
+/*.ninja
