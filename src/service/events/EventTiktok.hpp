@@ -83,12 +83,6 @@ namespace Events {
     };
 
 
-    char* copyString(const std::string& str) {
-        char* rt = (char*)malloc(str.size()+1);
-        strcpy(rt,str.c_str());
-        return rt;
-    }
-
     Json::Value EventTiktok::recognizeSong(const std::string& url) {
         auto ttdownloader = Config::Get()->GetService<TtDownloaderService>();
         httplib::Client _ttclient(ttdownloader->GetHost().c_str());
