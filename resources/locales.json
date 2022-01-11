@@ -1,0 +1,15 @@
+{
+    "ru": {
+        "bot_can":          "Привет! Чтобы я смог распознать музыку, отправь мне что-то из этого\n\n  •  Ссылку на тикток\n  •  Текст с ссылкой",
+        "result":           "Вот что мне удалось найти",
+        "bad_result":       "Прости, ничего не удалось найти :("
+    },
+
+    "en": {
+        "bot_can":          "Hi! So that I can recognize the music, send me some of this:\n\n  •  Tiktok link\n  •  Text with the link",
+        "result":           "Here's what I managed to find",
+        "bad_result":       "Sorry, I couldn't find anything :("
+    }
+
+}
+

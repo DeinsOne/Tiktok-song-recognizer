@@ -1,0 +1,10 @@
+{
+    "tt-downloader": {
+        "host": "http://localhost:8080"
+    },
+
+    "song-recognizer": {
+        "host":"https://song-recognizer-service.herokuapp.com"
+    }
+
+}

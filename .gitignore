@@ -1,0 +1,9 @@
+## directories
+/build
+/,vs
+/.vscode
+/tmp
+
+## Files
+/resources/users.db
+
