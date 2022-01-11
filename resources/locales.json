@@ -2,13 +2,19 @@
     "ru": {
         "bot_can":          "Привет! Чтобы я смог распознать музыку, отправь мне что-то из этого\n\n  •  Ссылку на тикток\n  •  Текст с ссылкой",
         "result":           "Вот что мне удалось найти",
-        "bad_result":       "Прости, ничего не удалось найти :("
+        "bad_result":       "Прости, ничего не удалось найти :(",
+
+        "secret":           "Привет! Я рад, что вы пользуетесь ботом 😊\n\nЕсли вы хотите что-то посоветовать или добавить другие сервисы помимо TikTok, свяжитесь с разработчиком",
+        "dev":              "Разработчик"
     },
 
     "en": {
         "bot_can":          "Hi! So that I can recognize the music, send me some of this:\n\n  •  Tiktok link\n  •  Text with the link",
         "result":           "Here's what I managed to find",
-        "bad_result":       "Sorry, I couldn't find anything :("
+        "bad_result":       "Sorry, I couldn't find anything :(",
+
+        "secret":           "Hi! I am glad you are using the bot 😊\n\nIf you want to advice something or add more services apart from TikTok, contact the developer",
+        "dev":              "Developer"
     }
 
 }

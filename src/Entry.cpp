@@ -11,7 +11,7 @@
 #include "service/events/EventStart.hpp"
 #include "service/events/EventLanguage.hpp"
 #include "service/events/EventTiktok.hpp"
-
+#include "service/events/EventHi.hpp"
 
 using namespace Bot;
 
@@ -33,6 +33,7 @@ int main(int argc, char** argv) {
     eventhandler->AddEvent<Events::EventStart>();
     eventhandler->AddEvent<Events::EventLanguage>();
     eventhandler->AddEvent<Events::EventTiktok>();
+    eventhandler->AddEvent<Events::EventHi>();
 
     // Create bot
     auto bot = Bot::Bot::make_bot(eventmanager, eventhandler,
